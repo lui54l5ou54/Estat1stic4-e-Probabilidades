@@ -1,0 +1,12 @@
+Atalhos do RStudio
+
+Conhecer os atalhos do teclado ajuda bastante quando estamos programando no RStudio. Veja os principais:
+
+# CTRL+ENTER: avalia a linha selecionada no script. O atalho mais utilizado.
+# ALT+-: cria no script um sinal de atribuição (<-). Você o usará o tempo todo.
+# CTRL+SHIFT+M: (%>%) operador pipe. Guarde esse atalho, você o usará bastante.
+# CTRL+1: altera cursor para o script.
+# CTRL+2: altera cursor para o console.
+# CTRL+ALT+I: cria um chunk no R Markdown.
+# CTRL+SHIFT+K: compila um arquivo no R Markdown.
+# ALT+SHIFT+K: janela com todos os atalhos disponíveis.
